@@ -33,7 +33,7 @@ const App = () => (
 
 See [full example](./demo) and [demo](https://revolunet.github.io/react-meetup-meetups)
 
-Also, the codesandbox live usage example :
+Also, the codesandbox live usage example : [https://codesandbox.io/s/24p6v31vkj](https://codesandbox.io/s/24p6v31vkj)
 
 [npm-badge]: https://img.shields.io/npm/v/react-meetup-meetups.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-meetup-meetups
